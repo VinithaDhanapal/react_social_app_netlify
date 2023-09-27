@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "dateTime": "September 23,2023 11:23:06 AM",
+      "body": "Made a video about Tesla and Google"
+    },
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "dateTime": "September 23,2023 11:21:52 AM",
+      "body": "Attend a event based on verapan"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "dateTime": "September 23,2023 11:51:48 AM",
+      "body": "Made a pineapple cake"
+    },
+    {
+      "id": 4,
+      "title": "Success post",
+      "dateTime": "September 27,2023 9:17:52 AM",
+      "body": "U have almost completed "
+    }
+  ]
+}
